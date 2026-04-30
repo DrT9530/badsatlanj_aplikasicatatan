@@ -1,0 +1,22 @@
+{
+    "populer": [
+        {
+            "id": 4,
+            "judul": "Iyo sih ngawi",
+            "isi": "64 Halaman",
+            "views": 500
+        },
+        {
+            "id": 1,
+            "judul": "Ide Game 2D",
+            "isi": "Bikin game RPG pakai Godot 4",
+            "views": 150
+        },
+        {
+            "id": 3,
+            "judul": "Jadwal Latihan",
+            "isi": "Persiapan fisik untuk voli",
+            "views": 85
+        }
+    ]
+}

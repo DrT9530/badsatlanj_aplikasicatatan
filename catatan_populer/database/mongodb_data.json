@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "judul": "Ide Game 2D",
+        "isi": "Bikin game RPG pakai Godot 4",
+        "views": 150
+    },
+    {
+        "id": 2,
+        "judul": "Tugas Sisfo",
+        "isi": "Kerjakan laporan praktikum NoSQL",
+        "views": 45
+    },
+    {
+        "id": 3,
+        "judul": "Jadwal Latihan",
+        "isi": "Persiapan fisik untuk voli",
+        "views": 85
+    },
+    {
+        "id": 4,
+        "judul": "Iyo sih ngawi",
+        "isi": "64 Halaman",
+        "views": 500
+    },
+    {
+        "id": 5,
+        "judul": "Satuwatt belum merdeka",
+        "isi": "100",
+        "views": 0
+    }
+]
